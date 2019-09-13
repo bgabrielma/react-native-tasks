@@ -46,7 +46,7 @@ Registe as suas próprias tarefas e veja o estado das mesmas.
 
 - Será necessário ter instalado um software que forneça uma base de dados **MySQL** local **_na porta :3306_**
   - Xampp
-  - Wamp
+  - WampServer
   - Mamp
   - Lamp
   - **entre outros**
