@@ -80,7 +80,7 @@ Registe as suas próprias tarefas e veja o estado das mesmas.
 
   #### Código - (endereço a usar: http://10.0.3.2:3000)
 
-  #### 3000 - porta que está em uso pelo servidor
+  #### 3000 - porta que será usada pelo servidor
 
   ```javascript
   import { Alert, Platform } from "react-native";
@@ -99,7 +99,7 @@ Registe as suas próprias tarefas e veja o estado das mesmas.
 
   #### Código - (endereço a usar: http://10.0.2.2:3000)
 
-  #### 3000 - porta que está em uso pelo servidor
+  #### 3000 - porta que será usada pelo servidor
 
   ```javascript
   import { Alert, Platform } from "react-native";
